@@ -1,0 +1,1 @@
+export HOME=/data/data/cz.jh.xtb/files ; cd $HOME ; export XTB4STDAHOME=$HOME ; rm xtbrestart hessian vibspectrum wbo *.log *.mol molden.input ; xtb4stda Input-xtb.xyz -molden -nox ; chmod 755 molden.input ; stda -f molden.input -ax 1 -sty 0 -e 20

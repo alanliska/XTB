@@ -25,7 +25,7 @@ More info on licenses & references - please refer to the licensing information i
 Licenses and references to used third-party software:
 
  * ACPDFVIEW
- Author: Bhuvaneshwaran (Github)
+ Author: Bhuvaneshw (Github)
  Source code: https://github.com/Bhuvaneshw/acpdfview
  License: GNU GPL-3.0
 
@@ -81,8 +81,7 @@ Licenses and references to used third-party software:
 
  * OPENBABEL
  Ref.: N M O'Boyle, M Banck, C A James, C Morley, T Vandermeersch, and G R Hutchison. "Open Babel: An open chemical toolbox." J. Cheminf. (2011), 3, 33. DOI:10.1186/1758-2946-3-33
-       The Open Babel Package, version 2.3.1 http://openbabel.org (accessed Oct 2011)
- Source code: http://openbabel.org/wiki/Main_Page, https://github.com/openbabel/openbabel, https://sourceforge.net/projects/openbabel/
+ Source code: http://openbabel.org/wiki/Main_Page, https://github.com/openbabel/openbabel
 
  * OPSIN
  Authors/developers: Rich Apodaca, Albina Asadulina, Peter Corbett, Daniel Lowe (Current maintainer), John Mayfield, Peter Murray-Rust, Noel O'Boyle, Mark Williamson
@@ -101,6 +100,7 @@ Licenses and references to used third-party software:
 
  * QCXMS
  Authors/contributors: Jeroen Koopman, Sebastian Ehlert, Johannes Gorges
+ Ref.: S. Grimme, Towards First Principles Calculation of Electron Impact Mass Spectra of Molecules. Angew. Chem. Int. Ed., 52, 6306-6312 DOI:10.1002/anie.201300158
  Source code: https://github.com/qcxms/QCxMS
  License: GNU GPL v3 and GNU LGPL v3
 
@@ -148,8 +148,9 @@ Licenses and references to used third-party software:
  * XTB
  Authors: C. Bannwarth, E. Caldeweyher, S. Ehlert, A. Hansen, P. Pracht, J. Seibert, S. Spicher, S. Grimme, P. Shushkov, M. Stahn, H. Neugebauer, J.-M. Mewes, V. Asgeirsson, C. Bauer, J. Koopman
  Ref.: 
-   -General Reference to xtb and the implemented GFN methods:
+   -General References to xtb and the implemented GFN methods:
     C. Bannwarth, E. Caldeweyher, S. Ehlert, A. Hansen, P. Pracht, J. Seibert, S. Spicher, S. Grimme WIREs Comput. Mol. Sci., 2020, 11, e01493. DOI: 10.1002/wcms.1493
+    M. de Wergifosse, P. Beaujean, S. Grimme, Ultrafast evaluation of two-photon absorption with simplified time-dependent density functional theory, J. Phys. Chem. A 2022, 126, 41, 7534–7547. DOI: 10.1021/acs.jpca.2c02395
    -for GFN-xTB:
     S. Grimme, C. Bannwarth, P. Shushkov, J. Chem. Theory Comput., 2017, 13, 1989-2009. DOI: 10.1021/acs.jctc.7b00118
     C. Bannwarth, S. Ehlert and S. Grimme., J. Chem. Theory Comput., 2019, 15, 1652-1671. DOI: 10.1021/acs.jctc.8b01176

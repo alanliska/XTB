@@ -14,7 +14,7 @@
         android:roundIcon="@drawable/icon"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light"
-        tools:targetApi="33">
+        tools:targetApi="34">
         <activity
             android:name=".MainActivity"
             android:exported="true">
@@ -33,6 +33,7 @@
         <activity android:name="cz.jh.xtb.XtbCommand" />
         <activity android:name="cz.jh.xtb.ManualXtb" />
         <activity android:name="cz.jh.xtb.ManualStda" />
+        <activity android:name="cz.jh.xtb.ManualOpenbabel" />
         <activity android:name="cz.jh.xtb.Licenses" />
         <activity android:name="cz.jh.xtb.Graph" />
     </application>

@@ -36,6 +36,8 @@
         <activity android:name="cz.jh.xtb.ManualOpenbabel" />
         <activity android:name="cz.jh.xtb.Licenses" />
         <activity android:name="cz.jh.xtb.Graph" />
+        <activity android:name="cz.jh.xtb.PrivacyPolicy" />
+        <activity android:name="cz.jh.xtb.ChangeSize" />
     </application>
 
 </manifest>

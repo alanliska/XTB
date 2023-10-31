@@ -182,9 +182,39 @@ Licenses and references to used third-party software:
  Source code: https://github.com/grimme-lab/xtb4stda
  License: GNU GPL v3 and GNU LGPL v3
 
+Manuals:
+
+ * XTB: https://xtb-docs.readthedocs.io/en/latest/ (CC BY-SA 4.0)
+
+ * STDA: https://www.chemiebn.uni-bonn.de/pctc/mulliken-center/software/stda/stda_manual.pdf (public domain)
+
+ * OpenBABEL: https://buildmedia.readthedocs.org/media/pdf/open-babel/latest/open-babel.pdf (CC0)
+
+Sources of the pre-compiled binaries:
+
+ * obabel: https://github.com/alanliska/openbabel-for-phreeqc-plus
+
+ * plotms: https://github.com/alanliska/PlotMS-for-phreeqc-plus
+
+ * qcxms: https://github.com/alanliska/QCxMS-for-phreeqc-plus
+
+ * stda: https://github.com/alanliska/stda-for-phreeqc-plus
+
+ * xbbc: https://github.com/alanliska/X11-Basic-for-Android
+
+ * xbvm: https://github.com/alanliska/X11-Basic-for-Android
+
+ * xtb: https://github.com/alanliska/xtb-for-phreeqc-plus
+
+ * xtb4stda: https://github.com/alanliska/xtb4stda-for-phreeqc-plus
+
 Other references:
 
  * UV-Vis spectra convolution: Tirri, Bernardino. Détermination d’un protocole de calcul pour la prédiction de spectres UV-vis de molécules en solution. Diss. Université Paris sciences et lettres, 2022.
 
 
 Info on licenses: please see the full-text licenses under the button Licenses. 
+
+ACKNOWLEDGEMENTS: 
+
+The authors appreciate the financial support from the GACR projects 18-12150S, 19-22806S, 21-23261S, and internal (institutional) support RVO: 61388955. 
